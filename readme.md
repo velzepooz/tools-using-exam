@@ -1,7 +1,7 @@
 # Tools using exam
 1. Replace `<your_account>` with your Github username in the links
-    - [DEMO LINK](https://velzepooz.github.io/{{tools-using-exam}}/)
-    - [TEST REPORT LINK](https://velzepooz.github.io/{{tools-using-exam}}/report/html_report/)
+    - [DEMO LINK](https://velzepooz.github.io/tools-using-exam/)
+    - [TEST REPORT LINK](https://velzepooz.github.io/tools-using-exam/report/html_report/)
     - [VIDEO LINK](https://www.loom.com/share/f05523051bae469786b4bbae2d06e493)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
 ___
